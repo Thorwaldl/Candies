@@ -16,7 +16,9 @@ import java.util.List;
 # Requisitos 
 
 Para usar o código, é necessario ter instalado em sua máquina:
+<br></br>
 -> Java 11 ou superior
+<br></br>
 -> Git 
 
 # Clone este repositório abrindo o terminal:
