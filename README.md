@@ -25,7 +25,12 @@ git clone https://github.com/Thorwaldl/Candies.git
 Executar o código:
 
 cd Candies
+<br></br>
 cd APA2023
+<br></br>
 cd src
+<br></br>
 javac Main.java
+<br></br>
 java Main
+<br></br>
