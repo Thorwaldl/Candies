@@ -1,7 +1,7 @@
 # Candies
 Execução do desafio disponível em https://www.hackerrank.com/challenges/candies
 
-# Imports necessarios
+# Imports necessários
 
 Classe Main: 
 <br></br>
