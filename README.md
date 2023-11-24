@@ -4,12 +4,14 @@ Execução do desafio disponível em https://www.hackerrank.com/challenges/candi
 # Imports necessarios
 
 Classe Main: 
+<br></br>
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+<br></br>
 
 Classe DistribuicaoDoces:
+<br></br>
 import java.util.ArrayList;
 import java.util.List;
 
